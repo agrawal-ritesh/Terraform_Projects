@@ -1,3 +1,0 @@
-locals {
-    location = "East US"
-}
