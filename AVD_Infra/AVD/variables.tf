@@ -7,7 +7,7 @@ variable "resource_group_name" {
 variable "vnet_cidr" {
     default = "10.20.0.0/16"
 }
-variable "subnet" {
+variable "subnet_cidr" {
     default = "10.20.1.0/24"
 }
 variable "hostpool_name" {
