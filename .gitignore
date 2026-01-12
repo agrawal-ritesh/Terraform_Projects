@@ -1,0 +1,8 @@
+#Ignoring the secret and state files.
+
+*.terraform.lock
+*terraform.tfstate
+*terraform.tfstate.backup
+*main.tfplan
+*terraform.tfvars
+*registry.terraform.io
