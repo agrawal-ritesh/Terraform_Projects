@@ -6,3 +6,4 @@
 *main.tfplan
 *terraform.tfvars
 *registry.terraform.io
+*.terraform.lock.hcl
